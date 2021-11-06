@@ -5,12 +5,6 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import com.bytedance.compicatedcomponent.R
-
-/**
- *  author : neo
- *  time   : 2021/10/30
- *  desc   :
- */
 class ClockActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
